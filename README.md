@@ -9,5 +9,5 @@ lilybotz/lilybotz is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-           <img src="https://telegra.ph/file/b81cfddc613538af66aa9.jpg" width="800"> </a>
+           <img src="https://telegra.ph/file/7f827ca45c833542777f0.jpg" width="1000"> </a>
     </p>
