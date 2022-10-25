@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lilybotz
+- 👋 Hi, I’m @jennie
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -9,5 +9,5 @@ lilybotz/lilybotz is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-           <img src="https://telegra.ph/file/ad70871e95e7030829acb.jpg" width="800"> </a>
+           <img src="https://telegra.ph/file/b81cfddc613538af66aa9.jpg" width="800"> </a>
     </p>
